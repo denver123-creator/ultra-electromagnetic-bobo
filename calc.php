@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<form action="hahaha.php" method="POST">
+<form action="calc.php" method="POST">
 		
 <input type="number" name="num1" required=/><br>
 <br>
